@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215419094616",
+    "project_id": "pranav-5acc6",
+    "storage_bucket": "pranav-5acc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215419094616:android:b492bcac240ea71bd2ec2d",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215419094616-3elfthu6uo9gkqi5hl54g8armvjth52q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8VIQ-WkdYJPz-fiGumDj4ztIbjY6Y-lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215419094616-3elfthu6uo9gkqi5hl54g8armvjth52q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
